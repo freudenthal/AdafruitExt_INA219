@@ -1,4 +1,10 @@
-# Adafruit INA219 Library [![Build Status](https://github.com/adafruit/Adafruit_INA219/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit_INA219/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit_INA219/html/index.html)
+This is a fork of Adafruit's INA219 library.
+
+<a href="https://github.com/adafruit/Adafruit_INA219/">Original library.</a>
+
+Modfied to flag when measurements are new.
+
+# Adafruit INA219 Library
 
 <a href="https://www.adafruit.com/products/904"><img src="assets/board.jpg" width="500px" /></a>
 
@@ -13,4 +19,5 @@ To install, use the Arduino Library Manager and search for 'Adafruit INA219' and
 Adafruit invests time and resources providing this open source code, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
 Written by Ktown for Adafruit Industries.
+Modified by Freudenthal to flag new measurements.
 MIT license, all text above must be included in any redistribution
